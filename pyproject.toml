@@ -11,7 +11,7 @@ packages = [
 python = "^3.10"
 suds-py3 = "1.4.5.0"
 PyXB-X = "1.2.6"
-requests = "2.27.1"
+requests = "2.31.0"
 xmltodict = "^0.12.0"
 
 [tool.poetry.dev-dependencies]
